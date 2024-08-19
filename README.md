@@ -14,7 +14,7 @@ This repository contains a simple bank account application implemented in Python
 
 1. **Clone the Repository**:
    ```bash
-   git https://github.com/sayedsadat98/python-bank-application/tree/main
+   git https://github.com/sayedsadat98/python-bank-application.git
    cd python-bank-application
    ```
 2. Set Up a Virtual Environment (optional but recommended):
